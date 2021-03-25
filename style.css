@@ -29,19 +29,19 @@ body {
 
 }
 
-.main-page_el__centred {
+.main-page__el_centred {
   display: block;
   width: 500px;
   margin: 0 auto 0;
 }
 
-.task {
+.task__item {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
 }
 
-.task-row-wrapper {
+.task-row_wrapper {
   display: flex;
 }
 
